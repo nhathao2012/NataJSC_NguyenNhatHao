@@ -1,0 +1,6 @@
+@NataJSC_Web_Test3112_HostAddress = http://localhost:5129
+
+GET {{NataJSC_Web_Test3112_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
